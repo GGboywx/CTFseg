@@ -4,9 +4,13 @@ CTFSeg is a high-precision semantic segmentation framework for coastal tidal fla
 
 📘 Highlights
 ✅ CTFSeg Network Innovations
+
 🧠 Multi-scale Feature Transformer (MFT): Integrates ASPP and Transformer structures to model local multi-scale context and global semantic dependencies. 
+
 🎯 Perceptual Attention (PA): Dynamically focuses on key intertidal zones, enhancing the recognition of small tidal channels and fine-grained textures. 
+
 🌀 Fuzzy Layer + Edge-Guided Decoder (EGD): Models fuzzy boundaries using membership functions, explicitly supervises edge features, improving boundary IoU by 7.1%. 
+
 ⚙️ Cross-edge Fusion Module (CEF): Deeply interacts edge and semantic features, strengthening the recognition of transitional zones in tidal flats.
 
 ✅ Features of the CTF Dataset
