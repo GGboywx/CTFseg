@@ -1,4 +1,4 @@
-🌊 CTFSeg: Multi-scale Attention Network for Chinese Tidal Flat Segmentation
+🌊 CSTFSeg: Multi-scale Attention Network for Chinese Tidal Flat Segmentation
 
 CTFSeg is a high-precision semantic segmentation framework for coastal tidal flat remote sensing images. It integrates a Multi-scale Feature Transformer (MFT) with an Edge-Guided Fuzzy Decoder (EGD), effectively capturing the fuzzy boundary features between tidal flats and water, wet sand, and vegetation.This project also releases the CTF (China Tidal Flat) dataset, which covers both typical and atypical tidal flat areas in eastern China. It is currently the first publicly available coastal tidal flat remote sensing semantic segmentation dataset with 10 m resolution, multi-region coverage, and pixel-level annotations.
 
@@ -16,7 +16,7 @@ CTFSeg is a high-precision semantic segmentation framework for coastal tidal fla
 
 ⚙️ Cross-edge Fusion Module (CEF): Deeply interacts edge and semantic features, strengthening the recognition of transitional zones in tidal flats.
 
-✅ Features of the CTF Dataset
+✅ Features of the CSTF Dataset
 
 🌍 Covers 12 typical and atypical tidal flat areas (Yueqing Bay, Yellow River Estuary, Hangzhou Bay, Min River Estuary, Liao River Estuary, Pearl Harbor, Yalu River Estuary, etc.);
 
@@ -30,7 +30,7 @@ CTFSeg is a high-precision semantic segmentation framework for coastal tidal fla
 
 
 @article{gu2025ctfseg,
-  title={CTFSeg: A Multi-scale Attention Semantic Segmentation Network for Chinese Tidal Flats},
+  title={CSTFSeg: A Multi-scale Attention Semantic Segmentation Network for Chinese Tidal Flats},
   author={Gu, Wenxuan and Others},
   journal={},
   year={2025},
